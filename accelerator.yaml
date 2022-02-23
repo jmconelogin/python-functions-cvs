@@ -1,5 +1,5 @@
 accelerator:
-  displayName: Python Knative App
+  displayName: CVS Python Knative App
   description: Python template function powered by Function Buildpacks for Knative
   iconUrl: https://raw.githubusercontent.com/sample-accelerators/python-functions-accelerator/main/functions-icon.png
   tags:
