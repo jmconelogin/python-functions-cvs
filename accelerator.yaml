@@ -1,11 +1,9 @@
 accelerator:
   displayName: CVS Python Knative App
-  description: Python template function powered by Function Buildpacks for Knative
+  description: Python function powered by Function Buildpacks for Knative
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   tags:
   - python
-  - function
-  - serverless
   - knative
 
   # Accelerator GUI
