@@ -1,5 +1,5 @@
 accelerator:
-  displayName: CVS Python Knative App
+  displayName: CVS Python App
   description: Python function powered by Function Buildpacks for Knative
   iconUrl: https://github.com/jmconelogin/jmconelogin/blob/main/custom_logo.png?raw=true
   tags:
@@ -7,6 +7,7 @@ accelerator:
   - knative
   - PBM
   - HCB
+  - k8
 
   # Accelerator GUI
   options:
