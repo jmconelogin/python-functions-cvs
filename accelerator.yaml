@@ -5,6 +5,8 @@ accelerator:
   tags:
   - python
   - knative
+  - PBM
+  - HCB
 
   # Accelerator GUI
   options:
